@@ -1,0 +1,23 @@
+extends layout
+
+block content
+  div.container
+    div.row
+      h1= title
+      hr
+      form(role='form')
+        div.form-group
+          label(for='uuid') 请输入慕课网老师的UUID
+          input#uuid.form-control(type='number')
+      button.btn.btn-success.btn-lg(data-confirm-btn) comfirm
+      button.btn.btn-default(data-optional) 290139
+      button.btn.btn-default(data-optional) 1277440
+      button.btn.btn-default(data-optional) 222764
+      button.btn.btn-default(data-optional) 1377243
+      button.btn.btn-default(data-optional) 1380535
+      hr
+  div.container
+    div.row
+      h4 当前老师的所有视频课程：
+      div.show-data
+        small 暂无数据，请输入慕课网老师的UUID来获取所有课程视频数据
