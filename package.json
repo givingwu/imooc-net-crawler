@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./bin/www"
+    "start": "node ./bin/www",
+    "dev": "node ./bin/www"
   },
   "dependencies": {
     "ansi-regex": "^2.1.1",
@@ -77,5 +78,5 @@
     "cheerio": "^0.22.0"
   },
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
