@@ -17,7 +17,7 @@
   npm run start
 ```
 
-or
+* or
 
 ```
   npm run dev
@@ -25,8 +25,8 @@ or
 
 # license
 
-*MIT*
+[MIT](https://opensource.org/licenses/MIT)
 
 # Thanks
 
-谢谢观看。(Thanks for your watching!)
+谢谢观看。(Thanks for your watching).
