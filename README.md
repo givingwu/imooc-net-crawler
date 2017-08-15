@@ -17,12 +17,6 @@
   npm run start
 ```
 
-* or
-
-```
-  npm run dev
-```
-
 # license
 
 [MIT](https://opensource.org/licenses/MIT)
