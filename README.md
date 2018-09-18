@@ -21,7 +21,7 @@
 * [express](https://www.npmjs.com/package/express) - Fast, unopinionated, minimalist web framework
 * [jade](http://jadelang.net/) - Jade is a terse language for writing HTML templates.
 * [request](https://www.npmjs.com/package/request) - Simplified HTTP request client.
-* [cheerio](cheerio) - Fast, flexible & lean implementation of core jQuery designed specifically for the server.
+* [cheerio](https://www.npmjs.com/package/cheerio) - Fast, flexible & lean implementation of core jQuery designed specifically for the server.
 * [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 * [AsyncJS](https://github.com/caolan/async) - Async utilities for node and the browser
 
